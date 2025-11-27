@@ -1,0 +1,12 @@
+# Arquivos de build do Zephyr
+build/
+build-*/*
+
+# Arquivos temporários
+*.log
+*.swp
+*.swo
+
+# Arquivos de editor/IDE
+.vscode/
+.idea/

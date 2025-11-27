@@ -1,0 +1,1 @@
+https://github.com/angelolovatto/hal-bluetooth-zephyr-angelo/tree/main/hal-bluetooth-zephyr-angelo/hal-bluetooth-zephyr-angelo

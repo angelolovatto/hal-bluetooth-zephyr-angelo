@@ -29,6 +29,10 @@ The project files are currently stored under:
 
 [`hal-bluetooth-zephyr-angelo/hal-bluetooth-zephyr-angelo/`](hal-bluetooth-zephyr-angelo/hal-bluetooth-zephyr-angelo/)
 
+## Academic report
+
+[Full academic report (PDF)](docs/hal-zephyr-report.pdf)
+
 ## Academic context
 
 Developed for coursework in **Embedded Systems Design** at UFSM.

@@ -6,12 +6,12 @@ The project explores the organization of a small **Hardware Abstraction Layer (H
 
 ## What I worked on
 
-> Embedded C application structure with Zephyr RTOS
-> GPIO abstraction through a small HAL
-> BLE initialization/advertising abstraction using Zephyr APIs
-> CMake/west-based Zephyr project organization
-> Separation between hardware-facing code and application logic
-> Documentation of integration limitations and next steps
+> Embedded C application structure with Zephyr RTOS,
+> GPIO abstraction through a small HAL,
+> BLE initialization/advertising abstraction using Zephyr APIs,
+> CMake/west-based Zephyr project organization,
+> Separation between hardware-facing code and application logic,
+> Documentation of integration limitations and next steps.
 
 ## Technologies
 
